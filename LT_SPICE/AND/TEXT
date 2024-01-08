@@ -1,1 +1,2 @@
-
+AND Gate is a basically digital logic gate that implements logical conjuntion. AND gate behaves according to the truth table.
+THe Inputs of the AND gate is HIGH(1) then the output is HIGH(1), otherwise the output will be low(0). 
