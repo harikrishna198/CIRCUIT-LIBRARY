@@ -2,9 +2,9 @@ AND Gate is a basically digital logic gate that implements logical conjuntion. A
 The Inputs of the AND gate is HIGH(1) then the output is HIGH(1), otherwise the output will be low(0). 
 
 AND Gate can implement by using diodes, transistors, COMS, PMOS, NMOS.
-
-Input	|Output
-A	B	  |A AND B
+I am implementing the circuit using CMOS.
+Input	Output
+A	B	  A AND B
 0	0	    0
 0	1	    0
 1	0	    0
