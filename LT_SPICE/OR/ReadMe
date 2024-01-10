@@ -1,1 +1,21 @@
+OR Gate is a basically digital logic gate that implements logical disjuntion. OR gate behaves according to the truth table.
+The Inputs of the OR gate is LOW(0) then the output is LOW(0), otherwise the output will be High(1). 
 
+AND Gate can implement by using diodes, transistors, COMS, PMOS, NMOS.
+
+I am implementing the circuit using CMOS.
+CMOS is basically design by PMOS and NMOS. 
+Inputs of the circuit is A,B. Output of the circuit will be Y. You can see the design in the schematic.
+Input  Output
+A	B	  A AND B
+0	0	    0
+0	1	    1
+1	0	    1
+1	1	    1
+
+Analytical representation:-
+The  logical expression of the circuit Y = A+B .
+f(0,0) = 0+0 = 0
+f(0,1) = 0+1 = 1
+f(1,0) = 1+0 = 1
+f(1,1) = 1+1 = 1
