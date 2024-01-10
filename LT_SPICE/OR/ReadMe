@@ -19,3 +19,7 @@ f(0,0) = 0+0 = 0
 f(0,1) = 0+1 = 1
 f(1,0) = 1+0 = 1
 f(1,1) = 1+1 = 1
+
+Note: 
+.ASC files are the schematic and test files and .asy files are the test files.
+You can access those files by LT Spice Software.
