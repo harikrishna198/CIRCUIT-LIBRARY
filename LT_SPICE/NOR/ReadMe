@@ -1,1 +1,26 @@
 
+nor Gate is a basically digital logic gate is complement of OR gate. NOR gate behaves according to the truth table.
+The Inputs of the NAND gate are LOW(0) then the output is HIGH(1), otherwise the output will be LOW(0). 
+
+NOR Gate can implement by using diodes, transistors, COMS, PMOS, NMOS and gates.
+
+I am implementing the circuit using CMOS.
+CMOS is basically design by PMOS and NMOS. 
+Inputs of the circuit is A,B. Output of the circuit will be Y. You can see the design in the schematic.
+Input  Output
+A	B	  A AND B
+0	0	    1
+0	1	    0
+1	0	    0
+1	1	    0
+
+Analytical representation:-
+The  logical expression of the circuit Y = 1-(A+B) .
+f(0,0) = 1-(0+0) = 1
+f(0,1) = 1-(0+1) = 0
+f(1,0) = 1-(1+0) = 0
+f(1,1) = 1-(1+1) = 0
+
+Note: 
+.ASC files are the schematic and test files and .asy files are the test files.
+You can access those files by LT Spice Software
