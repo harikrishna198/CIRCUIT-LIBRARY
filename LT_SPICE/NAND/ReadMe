@@ -7,7 +7,7 @@ I am implementing the circuit using CMOS.
 CMOS is basically design by PMOS and NMOS. 
 Inputs of the circuit is A,B. Output of the circuit will be Y. You can see the design in the schematic.
 Input  Output
-A	B	  A AND B
+A	B	  A NAND B
 0	0	    1
 0	1	    1
 1	0	    1
