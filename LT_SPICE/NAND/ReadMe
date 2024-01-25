@@ -1,7 +1,7 @@
-NAND Gate is a basically digital logic gate is complement of NAND gate. NAND gate behaves according to the truth table.
+NAND Gate is a basically digital logic gate is complement of AND gate. NAND gate behaves according to the truth table.
 The Inputs of the NAND gate is HIGH(1) then the output is LOW(0), otherwise the output will be HIGH(1). 
 
-AND Gate can implement by using diodes, transistors, COMS, PMOS, NMOS.
+NAND Gate can implement by using diodes, transistors, COMS, PMOS, NMOS.
 
 I am implementing the circuit using CMOS.
 CMOS is basically design by PMOS and NMOS. 
